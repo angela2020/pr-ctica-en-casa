@@ -1,8 +1,12 @@
-# utem2019
-hola mundo en este mundo
+# proyecto nuevo
+##recoleccion de datos
 
-tarea numero 4
-practica en casa
-clase numero 3
+<ol>pagina tripadvior
 
-nueva linea
+<li>objetivo: identificar los restaurantes mejor y peor calificados</li>
+
+<li>para con la información poder contribuir a la toma de desiciones informadas</li>
+
+<li>atraves de la identificacion de la correlacion de palabras con determinasdas perspectivas hacia un restorant</li>
+
+</ol> analizar los datos
