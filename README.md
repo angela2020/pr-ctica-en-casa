@@ -3,7 +3,7 @@
 </ol> A través de la página tripadvisor se recolectará información sobre las opiniones de los clientes de los distintos restaurantes de santiago.
 
 
-</ol>Objetivo: Identificar, recolectar, describir y analisar las opiniones de los clientes en dos categorias, bien calificado y mal calificado ,para posteriormete ser utilizada en una informada toma de decisiones.
+<ol>Objetivo: Identificar, recolectar, describir y analisar las opiniones de los clientes en dos categorias, bien calificado y mal calificado ,para posteriormete ser utilizada en una informada toma de decisiones.
 
 
 <ol>Pasos a seguir:
